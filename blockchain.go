@@ -1,5 +1,5 @@
 // Project Trendstone
-// Blockchain implentation with proof of work
+// Blockchain implementation
 
 
 package main
